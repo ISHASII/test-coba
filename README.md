@@ -100,6 +100,10 @@ Php artisan serve
 (yang satu lagi buat FE nya ini)
 npm run dev
 
+# TESTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTttttttttttttttttt:
+
+
+
 # Akun Admin:
 
 email : admin@admin.com
